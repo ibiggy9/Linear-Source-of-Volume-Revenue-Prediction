@@ -1,0 +1,62 @@
+------------------------------------------------------------------
+Accuracy Statistics
+------------------------------------------------------------------
+Chance of being accurate is 99.0%
+Chance of being inaccurate is -1.0%
+
+
+------------------------------------------------------------------
+Sample Predictions
+------------------------------------------------------------------
+------------------------------------------------------------------
+Cheez It Sales Prediction: 
+$346305.966954574
+
+Inputs: 
+[ 126383 4067321 1550692  953252   67087 1405052  213868  220350  820471]
+
+Actual Cheez It Sales: 
+$401983
+
+------------------------------------------------------------------
+Cheez It Sales Prediction: 
+$361706.9680582321
+
+Inputs: 
+[ 154486 3846713 1509035  955751   61427 1331627  203607  245902  852593]
+
+Actual Cheez It Sales: 
+$392072
+
+
+
+------------------------------------------------------------------
+Output Report:
+------------------------------------------------------------------
+Cheez It Got 9% of its volume from All Other
+Cheez It Got 14% of its volume from RITZ
+Cheez It Got 8% of its volume from Triscuits
+Cheez It Got 9% of its volume from Bear Paws Crackers
+Cheez It Got 39% of its volume from Keebler Townhouse
+Cheez It Got 18% of its volume from Vinta
+
+Total run time: 
+0:00:23.042460 seconds
+
+Total number of runs: 
+10000
+
+Intercept: 
+ -193784.4174484649
+
+Best accuracy: 
+98%
+
+Mean Absolute Error:
+ 64224.92162534897
+
+Mean Squared Error:
+ 5130833286.384079
+
+Root Squared Error:
+ 71629.83516932088
